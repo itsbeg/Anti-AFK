@@ -8,6 +8,5 @@ https://rscripts.net/script/begs-anti-afk-script-SDa8
 
 
 
-
 -
 follow me: https://guns.lol/itsbeg 

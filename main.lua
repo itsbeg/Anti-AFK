@@ -4,7 +4,7 @@ local _b=Instance.new("TextLabel")local ab=Instance.new("TextLabel")ba.Parent=ga
 ba.ZIndexBehavior=Enum.ZIndexBehavior.Sibling;ca.Parent=ba;ca.Active=true
 ca.BackgroundColor3=Color3.new(0,0,0)ca.Draggable=true
 ca.Position=UDim2.new(0.698610067,0,0.098096624,0)ca.Size=UDim2.new(0,370,0,52)
-ca.Font=Enum.Font.Highway;ca.Text="beg's anti AFK script"ca.TextColor3=Color3.new(1,1,1)
+ca.Font=Enum.Font.Highway;ca.Text="beg's anti AFK script v1.1"ca.TextColor3=Color3.new(1,1,1)
 ca.TextSize=22;da.Parent=ca
 da.BackgroundColor3=Color3.new(0,0,0)da.Position=UDim2.new(0,0,1.0192306,0)
 da.Size=UDim2.new(0,370,0,107)_b.Parent=da

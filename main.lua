@@ -22,5 +22,5 @@ if setclipboard then
     setclipboard(textToCopy)
     print("script ran successfully!")
 else
-    warn("dont skid")
+    warn("dont skid this")
 end
